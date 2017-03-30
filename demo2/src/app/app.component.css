@@ -1,0 +1,39 @@
+.menu{
+
+}
+.padding-0{
+  padding: 0px;
+}
+.col-3-height{
+  height: 200px;
+}
+.background-green{
+  background-color: rgb(132,191,25);
+}
+.background-orange{
+  background-color: rgb(236,139,35);
+}
+
+.background-blue{
+  background-color: rgb(3,187,248);
+}
+.panel-header{
+  font-size: 1.12em;
+  color: #fff;
+  height: 3.15em;
+  padding-top: .9em;
+  text-align: center;
+  border-top-right-radius: .3em;
+  border-top-left-radius: .3em;
+  text-shadow: 0.5px 0px #fff;
+}
+.panel-footer{
+  font-size: 1.12em;
+  height: 3.15em;
+  padding-top: .7em;
+  background-color: #fff;
+  text-align: center;
+  border-bottom-right-radius: .3em;
+  border-bottom-left-radius: .3em;
+  border-top: 1px solid #ededed !important;
+}

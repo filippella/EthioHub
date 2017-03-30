@@ -1,0 +1,40 @@
+.menu{
+  margin:0px;
+  padding: 0px;
+  margin-bottom: 5px;
+
+
+
+}
+.navbar-default{
+  margin-bottom: 2px;
+
+
+}
+.navbar{
+  background-color: rgb(3,187,248);
+  font-size: 1.12em;
+  color: #fff;
+  text-align: center;
+  border-top-right-radius: .3em;
+  border-top-left-radius: .3em;
+  border: 0px solid #eeeeee;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover
+{
+  background-color: rgb(236,139,35) !important;
+}
+ .navbar-nav>li>a:hover{
+   background-color: rgb(236,139,35);
+
+ }
+.navbar-nav>li>a {
+  font-size: 1.5em;
+  color: #fff;
+  height: 3.15em;
+  /*padding-top: .9em;*/
+  text-align: center;
+font-family: Georgia, serif;
+
+}
